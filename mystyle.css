@@ -8,7 +8,8 @@ body{
     margin: auto;
     width: 50%;
     padding: 16px;
-    background-color: aliceblue;
+    background-color: black;
+    color: aliceblue;
     box-shadow: 20px 20px 20px 0px rgba(0, 0, 0, 0.7);
 }
 
@@ -18,4 +19,17 @@ padding: 15px;
 margin: 5px 0 22px 0;
 display: inline-block;
 border: none;
+outline: none;
+border-bottom: 2px solid aliceblue;
+}
+img{
+    border-radius: 50%;
+    position: relative;
+}
+.center{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+
+width: 9%;
 }
