@@ -12,14 +12,21 @@ body{
     color: aliceblue;
     box-shadow: 20px 20px 20px 0px rgba(0, 0, 0, 0.7);
 }
+.heading{
+    text-align: center;
+}
 
 .input{
+    text-align: center;
 width: 100%;
 padding: 15px;
 margin: 5px 0 22px 0;
 display: inline-block;
 border: none;
 outline: none;
+}
+p{
+    text-align: center;
 }
 img{
     border-radius: 50%;
