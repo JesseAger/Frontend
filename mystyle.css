@@ -41,3 +41,16 @@ margin-right: auto;
 
 width: 11%;
 }
+ a:link{
+    color: purple;
+ }
+ a:active{
+    color: tomato;
+ }
+ a:visited{
+    color:red;
+    text-decoration: none;   
+ }
+ a:hover{
+    text-decoration: underline;
+ }
