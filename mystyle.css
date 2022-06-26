@@ -20,7 +20,6 @@ margin: 5px 0 22px 0;
 display: inline-block;
 border: none;
 outline: none;
-border-bottom: 2px solid aliceblue;
 }
 img{
     border-radius: 50%;
@@ -31,5 +30,5 @@ img{
 margin-left: auto;
 margin-right: auto;
 
-width: 9%;
+width: 11%;
 }
