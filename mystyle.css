@@ -26,6 +26,10 @@ input[type=submit] {
   input[type=submit]:hover {
     background-color: #45a049;
   }
+  input[type=text]  {
+border-bottom: 2px solid black;
+
+  }
   
 .heading{
     text-align: center;
