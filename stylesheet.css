@@ -23,3 +23,15 @@ body{
     padding: 20px;
     box-sizing: border-box;
 }
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+a:visited{
+    text-decoration: underline;
+    color: tomato;
+}
+a:active{
+    text-decoration: solid;
+    color: crimson;
+}
